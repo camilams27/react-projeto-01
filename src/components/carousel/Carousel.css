@@ -1,0 +1,11 @@
+.container{
+    display: flex; justify-content: center; align-items: center;
+}
+
+.containerCarousel, .imagem{
+    height: 50vh; width: 80vw;
+}
+
+.imagem{
+    background-size: cover; 
+}

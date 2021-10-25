@@ -1,0 +1,6 @@
+body{
+    width: 100vw; height: 100vh;
+    background: salmon;
+    background-image: linear-gradient(to bottom right, rgb(212, 93, 80), salmon, white);
+}
+
